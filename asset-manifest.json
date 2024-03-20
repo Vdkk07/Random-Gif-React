@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vdkk07/Random-Gif-React/static/css/main.5bb1d083.css",
+    "main.js": "/Vdkk07/Random-Gif-React/static/js/main.8aca8538.js",
+    "index.html": "/Vdkk07/Random-Gif-React/index.html",
+    "main.5bb1d083.css.map": "/Vdkk07/Random-Gif-React/static/css/main.5bb1d083.css.map",
+    "main.8aca8538.js.map": "/Vdkk07/Random-Gif-React/static/js/main.8aca8538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb1d083.css",
+    "static/js/main.8aca8538.js"
+  ]
+}
